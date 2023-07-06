@@ -1,0 +1,718 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/0ac1fab26c5ad488a65c7ca92a22faf5/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/97fee3395468bcc272312b25adf8ceaf/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-community_async-storage] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/416ba1919fd051768e50e1892df3a8c3/transformed/jetified-react-android-0.71.4-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/02bae2051a6c6228415182e97424cf90/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a0f740a3321db4702b004865472acc41/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5e76afa593bcfb12a3c82b6628f0ff73/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/055be8ad0e935d719312d0836301f546/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/486b40e603b1b2c27a2fbfef6be0a960/transformed/jetified-hermes-android-0.71.4-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9a9439d85c19cfef158e861e34b770c7/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d17902e47741b51492d3bfb92ac6dd89/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b97a6e4dbce753f9d9d91b3d545e50ce/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3a2c0419896667edd5b742426324eb3c/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8a6421c2f0cc36eba27611e891c3e227/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d53691950e74b7d3faab558383f5d6b2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/44d69a3016ee4972f2a8658c716a54d6/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2a88fed1954c9407297045d32cfb5989/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/c0a8e14bb87d056c2a19b521b9ac75b3/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/af1545e2d9f44a205b423426ba91c4f2/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/84ee8e653d78d96db668821f04bbb061/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a28284d73acfbc1772ca956eb1686b50/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5908c814a2c14c2ac3d8101cc5ebf3f4/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/93db2e9abd962f48cc629991780a5439/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5b8127c3b6d8dbab1079b323d4721e97/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3714e67a11fa7acf1fb82b286e1d6350/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:17:1-143:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f98a40afa158303fbdd7dbee2bfbed7c/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6e2e87ddf57f4541ad39de3ea13c1342/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/80210cb64c4de425c4cb70b130db3731/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/cf61232ed404f87ee7e2febc2f3beb21/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b13abd539ec8984c7ce41f4458927392/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d67a45ca39738f661b3c1c96f819d271/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/ba22ca903a1076591159a1c6d1a07ffd/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/29a97fdeea7b6eb6793f2fe12f02e3bd/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9347505d1ea9634ab8f800f2b4b61048/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8695688fdcace12991ebe517ce4ef499/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9f70fd180a52441c506684ecc64cb3a9/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/23cb14e103428af15be4ba06f11bb146/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/dcccb76a9197ea239984873537a8ca22/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/db98240d04568dcdf8246c1f36392ab6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/0098122ddab1848ebcdf31588d1772e9/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d88d947800917913feb2b7c0fd2e76e5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f8b4ed2a195bedb01af8d199cec6edf0/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6404d8e502e461565571cd1b141c76a2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/ea3ea8aea53c395ecf99df3df09160ec/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b6d540e27b5867865fe26850ba384f89/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3a35077eb295f079f8db3f3b73647e43/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/db3c166ac306d14fe82a59f89b955863/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/179431e82cf91531fd9542e8bb293771/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fbd4121521e50de1a895752d650702a1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fd32689cdae9ea396475c3f63e60fd53/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/e3de494b59fe552494a12ecdbbc60422/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2e59fb49ea1272b1a278c4b9a7af16d4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/63876a6f59287e659e82aefe44596885/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/661b33e19906e62f1dbec7655e47ea7e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/436a9ee566e2c492a9d408e93bc10c92/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8e5e99fa570eff04e7b6cde17e3367fc/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b25d27c9082099c0a66ca303308ef865/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/26fb285b75e9f878059c194886f03d70/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74663eb0f63f46cbb0a38349763af868/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8011e513593237f07ea06c357d46b7b5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6e78ccd26e1e05d1f49cb51596e32e8e/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9ba753ca0e1a7567356ad3752f70b1b0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2c6aaeee4512daec13668a7c49ba3222/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/34bd031c7c8cb9943cbe4ed9c706aa08/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/4404f0531fd4f747a3530cc94287ed3f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3cc033f606143843091cf8bf3ef65c77/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fc72e6063bcba1d5081e5402a93f9c6c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/08e287ebe7c35aa66840d069894dc1b5/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [:react-native-community_datetimepicker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/416ba1919fd051768e50e1892df3a8c3/transformed/jetified-react-android-0.71.4-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/416ba1919fd051768e50e1892df3a8c3/transformed/jetified-react-android-0.71.4-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/02bae2051a6c6228415182e97424cf90/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/02bae2051a6c6228415182e97424cf90/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a0f740a3321db4702b004865472acc41/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a0f740a3321db4702b004865472acc41/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a28284d73acfbc1772ca956eb1686b50/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a28284d73acfbc1772ca956eb1686b50/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b13abd539ec8984c7ce41f4458927392/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b13abd539ec8984c7ce41f4458927392/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d67a45ca39738f661b3c1c96f819d271/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d67a45ca39738f661b3c1c96f819d271/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/63876a6f59287e659e82aefe44596885/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/63876a6f59287e659e82aefe44596885/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/26fb285b75e9f878059c194886f03d70/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/26fb285b75e9f878059c194886f03d70/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/63876a6f59287e659e82aefe44596885/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:9:7-54
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:9:7-54
+	tools:targetApi
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:8:7-43
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:8:7-43
+	android:allowBackup
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:12:7-67
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:12:7-67
+	android:usesCleartextTraffic
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.pqaa_detox.MainActivity
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/0ac1fab26c5ad488a65c7ca92a22faf5/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/0ac1fab26c5ad488a65c7ca92a22faf5/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/97fee3395468bcc272312b25adf8ceaf/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/97fee3395468bcc272312b25adf8ceaf/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_async-storage] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/416ba1919fd051768e50e1892df3a8c3/transformed/jetified-react-android-0.71.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/416ba1919fd051768e50e1892df3a8c3/transformed/jetified-react-android-0.71.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/02bae2051a6c6228415182e97424cf90/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/02bae2051a6c6228415182e97424cf90/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a0f740a3321db4702b004865472acc41/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a0f740a3321db4702b004865472acc41/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5e76afa593bcfb12a3c82b6628f0ff73/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5e76afa593bcfb12a3c82b6628f0ff73/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/055be8ad0e935d719312d0836301f546/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/055be8ad0e935d719312d0836301f546/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/486b40e603b1b2c27a2fbfef6be0a960/transformed/jetified-hermes-android-0.71.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/486b40e603b1b2c27a2fbfef6be0a960/transformed/jetified-hermes-android-0.71.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9a9439d85c19cfef158e861e34b770c7/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9a9439d85c19cfef158e861e34b770c7/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d17902e47741b51492d3bfb92ac6dd89/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d17902e47741b51492d3bfb92ac6dd89/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b97a6e4dbce753f9d9d91b3d545e50ce/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b97a6e4dbce753f9d9d91b3d545e50ce/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3a2c0419896667edd5b742426324eb3c/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3a2c0419896667edd5b742426324eb3c/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8a6421c2f0cc36eba27611e891c3e227/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8a6421c2f0cc36eba27611e891c3e227/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d53691950e74b7d3faab558383f5d6b2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d53691950e74b7d3faab558383f5d6b2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/44d69a3016ee4972f2a8658c716a54d6/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/44d69a3016ee4972f2a8658c716a54d6/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2a88fed1954c9407297045d32cfb5989/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2a88fed1954c9407297045d32cfb5989/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/c0a8e14bb87d056c2a19b521b9ac75b3/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/c0a8e14bb87d056c2a19b521b9ac75b3/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/af1545e2d9f44a205b423426ba91c4f2/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/af1545e2d9f44a205b423426ba91c4f2/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/84ee8e653d78d96db668821f04bbb061/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/84ee8e653d78d96db668821f04bbb061/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a28284d73acfbc1772ca956eb1686b50/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/a28284d73acfbc1772ca956eb1686b50/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5908c814a2c14c2ac3d8101cc5ebf3f4/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5908c814a2c14c2ac3d8101cc5ebf3f4/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/93db2e9abd962f48cc629991780a5439/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/93db2e9abd962f48cc629991780a5439/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5b8127c3b6d8dbab1079b323d4721e97/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/5b8127c3b6d8dbab1079b323d4721e97/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3714e67a11fa7acf1fb82b286e1d6350/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3714e67a11fa7acf1fb82b286e1d6350/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f98a40afa158303fbdd7dbee2bfbed7c/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f98a40afa158303fbdd7dbee2bfbed7c/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6e2e87ddf57f4541ad39de3ea13c1342/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6e2e87ddf57f4541ad39de3ea13c1342/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/80210cb64c4de425c4cb70b130db3731/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/80210cb64c4de425c4cb70b130db3731/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/cf61232ed404f87ee7e2febc2f3beb21/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/cf61232ed404f87ee7e2febc2f3beb21/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b13abd539ec8984c7ce41f4458927392/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b13abd539ec8984c7ce41f4458927392/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d67a45ca39738f661b3c1c96f819d271/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d67a45ca39738f661b3c1c96f819d271/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/ba22ca903a1076591159a1c6d1a07ffd/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/ba22ca903a1076591159a1c6d1a07ffd/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/29a97fdeea7b6eb6793f2fe12f02e3bd/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/29a97fdeea7b6eb6793f2fe12f02e3bd/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9347505d1ea9634ab8f800f2b4b61048/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9347505d1ea9634ab8f800f2b4b61048/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8695688fdcace12991ebe517ce4ef499/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8695688fdcace12991ebe517ce4ef499/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9f70fd180a52441c506684ecc64cb3a9/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9f70fd180a52441c506684ecc64cb3a9/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/23cb14e103428af15be4ba06f11bb146/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/23cb14e103428af15be4ba06f11bb146/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/dcccb76a9197ea239984873537a8ca22/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/dcccb76a9197ea239984873537a8ca22/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/db98240d04568dcdf8246c1f36392ab6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/db98240d04568dcdf8246c1f36392ab6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/0098122ddab1848ebcdf31588d1772e9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/0098122ddab1848ebcdf31588d1772e9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d88d947800917913feb2b7c0fd2e76e5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/d88d947800917913feb2b7c0fd2e76e5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f8b4ed2a195bedb01af8d199cec6edf0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f8b4ed2a195bedb01af8d199cec6edf0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6404d8e502e461565571cd1b141c76a2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6404d8e502e461565571cd1b141c76a2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/ea3ea8aea53c395ecf99df3df09160ec/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/ea3ea8aea53c395ecf99df3df09160ec/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b6d540e27b5867865fe26850ba384f89/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b6d540e27b5867865fe26850ba384f89/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3a35077eb295f079f8db3f3b73647e43/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3a35077eb295f079f8db3f3b73647e43/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/db3c166ac306d14fe82a59f89b955863/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/db3c166ac306d14fe82a59f89b955863/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/179431e82cf91531fd9542e8bb293771/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/179431e82cf91531fd9542e8bb293771/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fbd4121521e50de1a895752d650702a1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fbd4121521e50de1a895752d650702a1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fd32689cdae9ea396475c3f63e60fd53/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fd32689cdae9ea396475c3f63e60fd53/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/e3de494b59fe552494a12ecdbbc60422/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/e3de494b59fe552494a12ecdbbc60422/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2e59fb49ea1272b1a278c4b9a7af16d4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2e59fb49ea1272b1a278c4b9a7af16d4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/63876a6f59287e659e82aefe44596885/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/63876a6f59287e659e82aefe44596885/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/661b33e19906e62f1dbec7655e47ea7e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/661b33e19906e62f1dbec7655e47ea7e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/436a9ee566e2c492a9d408e93bc10c92/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/436a9ee566e2c492a9d408e93bc10c92/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8e5e99fa570eff04e7b6cde17e3367fc/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8e5e99fa570eff04e7b6cde17e3367fc/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b25d27c9082099c0a66ca303308ef865/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/b25d27c9082099c0a66ca303308ef865/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/26fb285b75e9f878059c194886f03d70/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/26fb285b75e9f878059c194886f03d70/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74663eb0f63f46cbb0a38349763af868/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74663eb0f63f46cbb0a38349763af868/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8011e513593237f07ea06c357d46b7b5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/8011e513593237f07ea06c357d46b7b5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6e78ccd26e1e05d1f49cb51596e32e8e/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/6e78ccd26e1e05d1f49cb51596e32e8e/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9ba753ca0e1a7567356ad3752f70b1b0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/9ba753ca0e1a7567356ad3752f70b1b0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2c6aaeee4512daec13668a7c49ba3222/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/2c6aaeee4512daec13668a7c49ba3222/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/34bd031c7c8cb9943cbe4ed9c706aa08/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/34bd031c7c8cb9943cbe4ed9c706aa08/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/4404f0531fd4f747a3530cc94287ed3f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/4404f0531fd4f747a3530cc94287ed3f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3cc033f606143843091cf8bf3ef65c77/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/3cc033f606143843091cf8bf3ef65c77/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fc72e6063bcba1d5081e5402a93f9c6c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/fc72e6063bcba1d5081e5402a93f9c6c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/08e287ebe7c35aa66840d069894dc1b5/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/08e287ebe7c35aa66840d069894dc1b5/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/85359981fc34b998011d2f7f6a3663cd/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:28:22-74
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f37d2be7329e7d1903a451e6b18b60d8/transformed/work-runtime-2.5.0/AndroidManifest.xml:138:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1e13520dd989a0e6ccb1acbe27c853ad/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/67808040403bd8aeac690da7f627d7ac/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/f893572f474998482291cb79de90c1ba/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/31c2abe4da64577b182d6ce9719aa57d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/03897f974b192a93c2a435fb6194b266/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/1d563ff0f9058a7c917d31049000cbb5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/74cba14c901bc2b4d52afae663a881ef/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shaimaaelbazedy/.gradle/caches/transforms-3/73ca240881237bfd9789562563fc050e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

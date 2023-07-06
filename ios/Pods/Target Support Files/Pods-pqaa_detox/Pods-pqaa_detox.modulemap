@@ -1,0 +1,6 @@
+module Pods_pqaa_detox {
+  umbrella header "Pods-pqaa_detox-umbrella.h"
+
+  export *
+  module * { export * }
+}

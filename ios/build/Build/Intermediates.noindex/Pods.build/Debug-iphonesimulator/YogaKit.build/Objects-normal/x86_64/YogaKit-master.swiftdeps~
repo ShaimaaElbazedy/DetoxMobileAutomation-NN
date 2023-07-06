@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "161242bf8653e444006bddcce99badc15acc37660005d2c3eb26617e9c1f1fdc"
+build_start_time: [1688513022, 591044000]
+build_end_time: [1688513022, 679787000]
+inputs:
+  ? "/Users/shaimaaelbazedy/Documents/Automation projects/DetoxFramework/pqaa_detox/ios/Pods/YogaKit/YogaKit/Source/YGLayoutExtensions.swift"
+  : !private [1688468391, 132819651]

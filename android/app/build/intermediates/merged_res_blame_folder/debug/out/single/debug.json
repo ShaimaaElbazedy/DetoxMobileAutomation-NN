@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/layout_launch_screen.xml.flat",
+        "source": "com.pqaa_detox.app-main-37:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-mdpi_pqaa_launcher.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-mdpi/pqaa_launcher.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xxxhdpi_pqaa_launcher_round.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xxxhdpi/pqaa_launcher_round.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xxxhdpi_pqaa_launcher_foreground.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xxxhdpi/pqaa_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xhdpi_pqaa_launcher_round.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xhdpi/pqaa_launcher_round.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-hdpi_pqaa_launcher_round.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-hdpi/pqaa_launcher_round.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/drawable_background_splash.xml.flat",
+        "source": "com.pqaa_detox.app-main-37:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xhdpi_pqaa_launcher.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xhdpi/pqaa_launcher.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-hdpi_pqaa_launcher.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-hdpi/pqaa_launcher.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xxhdpi_pqaa_launcher_foreground.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xxhdpi/pqaa_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xhdpi_pqaa_launcher_foreground.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xhdpi/pqaa_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xxhdpi_pqaa_launcher.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xxhdpi/pqaa_launcher.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xhdpi_pqaa_cover.jpg.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xhdpi/pqaa_cover.jpg"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-anydpi-v26_pqaa_launcher_round.xml.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-anydpi-v26/pqaa_launcher_round.xml"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-mdpi_pqaa_launcher_foreground.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-mdpi/pqaa_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-hdpi_pqaa_launcher_foreground.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-hdpi/pqaa_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/drawable_pqaa_launcher_background.xml.flat",
+        "source": "com.pqaa_detox.app-main-37:/drawable/pqaa_launcher_background.xml"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xxhdpi_pqaa_launcher_round.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xxhdpi/pqaa_launcher_round.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-anydpi-v26_pqaa_launcher.xml.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-anydpi-v26/pqaa_launcher.xml"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/xml_network_security_config.xml.flat",
+        "source": "com.pqaa_detox.app-main-37:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-xxxhdpi_pqaa_launcher.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-xxxhdpi/pqaa_launcher.png"
+    },
+    {
+        "merged": "com.pqaa_detox.app-merged_res-35:/mipmap-mdpi_pqaa_launcher_round.png.flat",
+        "source": "com.pqaa_detox.app-main-37:/mipmap-mdpi/pqaa_launcher_round.png"
+    }
+]
